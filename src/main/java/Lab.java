@@ -19,6 +19,6 @@ public class Lab {
      */
     public Object instantiateANewObject(){
         String myString = new String("Hello there");
-        return myString;
+        return myString; //Comment to commit
     }
 }
